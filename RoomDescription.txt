@@ -1,44 +1,29 @@
 
 Room: v6
+This room is trapped!
+More information can be found about the possible traps on pages 120-123 in the Dungeon Masters Guide (5th Edition)
+This room connects to: [v0, v7, v7]
+Room: v7
 MONSTER: 40x Merfolk; 
 STATS: CR: 1/8; HP: 11; AC: 11; 
 COMBAT: ATTACK BONUS: 2; Spear: 1d6/1d8(2h); 
 More information can be found about the monster on page 218 in the Monster Manual (5th Edition)
-This room connects to: [v0, v7, v7, v8, v10]
-Room: v7
-MONSTER: 20x Bullywug; 
-STATS: CR: 1/4; HP: 11; AC: 15; 
-COMBAT: ATTACK BONUS: 3; Bite: 1d4 + 1; Spear: 1d6 + 1/1d8 + 1 (2h); 
-More information can be found about the monster on page 35 in the Monster Manual (5th Edition)
-This room connects to: [v6, v6]
+This room connects to: [v6, v6, v8]
 Room: v8
-MONSTER: 20x Bullywug; 
-STATS: CR: 1/4; HP: 11; AC: 15; 
-COMBAT: ATTACK BONUS: 3; Bite: 1d4 + 1; Spear: 1d6 + 1/1d8 + 1 (2h); 
-More information can be found about the monster on page 35 in the Monster Manual (5th Edition)
-This room connects to: [v6, v9]
+This room is trapped!
+More information can be found about the possible traps on pages 120-123 in the Dungeon Masters Guide (5th Edition)
+This room connects to: [v7, v9]
 Room: v9
 
 <b>Suggested Loot: This room contains treasure!</b>This should be adapted for your campaign and game session to avoid too much or too little treasure/items. 
  Treasure tables can be found in chapter 7 (p.137) of the Dungeon Master's Guide (5th Edition)
 This room connects to: [v8]
 Room: v10
-
- NPC INFORMATION 
- Note: Choose either Ally Type or Patronage if they are counterintuitive/contradictory. 
- 
- Patronage: Retired adventurer  
- Ally type: Soldier 
- Ability: Dexterity- lithe, agile, graceful  
- Appearance: Exceptionally beautiful 
- Interaction Trait: Curious 
- Ideals: Slaughter 
- Bonds: Protective of a sentimental keepsake  
- Knows: The location of valuable treasure / magical item of power 
- Mannerism: Uses colorful oaths and exclamations  
- Flaw or Secret: Envies another creature's possessions or station  
- Talent: Great at solving puzzles  
-This room connects to: [v6, v11]
+MONSTER: 20x Kuo-Toa; 
+STATS: CR: 1/4; HP: 18; AC: 13; 
+COMBAT: ATTACK BONUS: 3; Bite: 1d4 + 1; Spear: 1d6 + 1/1d8 + 1 (2h); 
+More information can be found about the monster on page 199 in the Monster Manual (5th Edition)
+This room connects to: [v4, v11]
 Room: v11
 
 <b>Suggested Loot: This room contains treasure!</b>This should be adapted for your campaign and game session to avoid too much or too little treasure/items. 
@@ -50,21 +35,21 @@ This room connects to: [v3, v6]
 Room: v1
 This is the Player's goal within the dungeon
 VILLAIN INFORMATION 
- Villain Type: Humanoid under a curse 
- Villain Scheme (the overall plan): Raise or restore a dead loved one  
+ Villain Type: Fey with a mysterious goal  
+ Villain Scheme (the overall plan): Steal land, goods, or money  
  Villain Method (the methods do they typically use to achieve the plan): Stalking 
- Villain Weakness: A special weapon deals extra damage when used against the villain 
+ Villain Weakness: The villain is destroyed if it speaks its true name.  
  
  OPTIONAL VILLAIN INFO 
- Ability: Dexterity- lithe, agile, graceful  
- Appearance: Unusual hair colour 
- Interaction Trait: Blustering 
- Ideals: Nation 
- Bonds: Protective of colleagues or compatriots  
- Knows: Knows someone working for the villain 
- Mannerism: Frequently uses the wrong word  
- Flaw or Secret: Is being blackmailed/bribed 
- Talent: Great at impersonations  
+ Ability: Wisdom- perceptive, spiritual, insightful  
+ Appearance: Nervous eye twitch 
+ Interaction Trait: Honest 
+ Ideals: Pain 
+ Bonds: Drawn to a special place  
+ Knows: Has information crucial to the adventure 
+ Mannerism: Speaks loudly  
+ Flaw or Secret: Foolhardy bravery  
+ Talent: Master of seduction 
 This room connects to: [v4]
 Room: v2
 This is locked!
@@ -80,7 +65,7 @@ Room: v4
 This is locked!
 The key for this room:v5
 
-This room connects to: [v2, v1]
+This room connects to: [v2, v1, v10]
 Room: v5
 This room contains a key!
 The key is for room:v4
